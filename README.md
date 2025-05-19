@@ -1,7 +1,8 @@
 # Vue 3 + Vite
 
 ```bash
-npm install vue-i18n@10 && npm i primevue/themes primeicons primeflex
+npm install vue-i18n@10 && npm i primevue/themes primeicons primeflex && npm install vue-router@4
+
 ```
 # install .env files
 ```bash
